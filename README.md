@@ -1,67 +1,72 @@
-<h1 align="center">Hi 👋, I'm Selvendran Palanisamy</h1>
-<h3 align="center">B.Tech IT Student | Developer | Tech Enthusiast</h3>
-<h4 align="center">Embedded Systems & IoT Developer • Android App & Hardware Project Developer</h4>
+<h1 align="center">Hi 👋, I’m Selvendran Palanisamy</h1>
+<h3 align="center">B.Tech IT Student | Embedded Systems & IoT Developer | Tech Enthusiast</h3>
 
 ---
 
 ## 🚀 About Me  
-- 🔭 Passionate about **IoT, Embedded Systems, Robotics, and Android Development**  
-- 💡 Interested in building **hardware + software integrated projects**  
-- 🎯 Always exploring new technologies and working on innovative tech solutions  
+- Passionate Embedded Systems & IoT Developer  
+- Experienced in Arduino, ESP modules, RFID & Robotics  
+- Strong interest in automation and real-time embedded systems  
+- Always learning and exploring new technologies  
 
 ---
 
-## 🧑‍💻 Technical Skills
+## 🧑‍💻 Technical Skills  
 
-### **💻 Programming Languages**
-- **Python**, **C**, **Java**
+### **💻 Programming Languages**  
+- Python  
+- C  
+- Java  
 
-### **📚 Libraries & Frameworks**
+### **📚 Libraries & Frameworks**  
 - NumPy  
 - Pandas  
 - Adafruit ESP8266  
 - AnalogRTCLib  
 
-### **🛠️ Tools & Technologies**
-- Arduino  
-- Raspberry Pi  
+### **🛠️ Tools & Technologies**  
 - GitHub  
-- Visual Studio Code  
-- Android Studio  
+- VS Code  
+- Arduino  
 - Sensors & Microcontrollers  
 
 ---
 
-## 🤝 Soft Skills
+## 🤝 Soft Skills  
 - Problem Solving  
 - Team Collaboration  
-- Leadership  
-- Time Management  
-- Fast Learner  
-- Project Planning  
+- Quick Learner  
 
 ---
 
 ## 📂 Featured Projects  
-*(Currently empty — will be updated soon)*  
+
+### 🔌 **Smart Home Automation Using IoT**  
+Remote appliance control using ESP8266, sensors & cloud connectivity.  
+🔗 **View Project:** https://github.com/selvendran254/Smart-Home-Automation-Using-IoT  
 
 ---
 
-## 📊 GitHub Stats (Optional)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=selvendranpalanisamy&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=selvendranpalanisamy&layout=compact&theme=tokyonight)
+### 🤖 **Cell Phone Controlled Robotic Vehicle**  
+Bluetooth-based robotic vehicle controlled through a smartphone.  
+🔗 **View Project:** https://github.com/selvendran254/-Cell-Phone-Controlled-Robotic-Vehicle  
 
 ---
 
-## 📫 Contact Me
+### 📚 **Library Automation Using RFID**  
+RFID-based system for automated book issue and return tracking.  
+🔗 **View Project:** https://github.com/selvendran254/Library-Automation-Using-RFID  
 
-- **📧 Email:** *selvendranpalanisamy@gmail.com*  
-- **🔗 LinkedIn:** [Selvendran P](https://www.linkedin.com/in/selvendran-p-398b061b8)  
+---
+
+## 📫 Contact Me  
+- **📧 Email:** selvendranapalanisamy@gmail.com  
+- **🔗 LinkedIn:** https://www.linkedin.com/in/selvendran-p-398b061b8  
+- **🐙 GitHub:** https://github.com/selvendran254  
 - **📍 Address:** Dindigul – 624619  
 - **📞 Phone:** 9025773867  
 
 ---
 
-## ⭐ Thanks for visiting my GitHub profile!
-Feel free to check out my repositories and connect with me!  
+## ⭐ Thanks for visiting my GitHub profile!  
+Feel free to explore my repositories and connect with me!
